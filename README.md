@@ -3,9 +3,9 @@
 A Flutter application to perform basic CRUD operations on MySQL database.
 
 ## Demo
-
-<img src="/Demo/demo.gif" width="300" height="400" />
-
+<p align="center">
+<img src="/Demo/demo.gif" width="320" height="450" />
+</p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
