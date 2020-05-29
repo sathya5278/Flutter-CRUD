@@ -4,7 +4,7 @@ A Flutter application to perform basic CRUD operations on MySQL database.
 
 ## Demo
 
-![Flutter CRUD Demo](/Demo/demo.gif)
+<img src="/Demo/demo.gif" width="300" height="400" />
 
 ## Getting Started
 
